@@ -13,7 +13,7 @@
     "require": {},
     "autoload-dev": {
         "psr-4": {
-            "Boltnut2020\\PhhpunitWeb\\": "vendor/boltnut2020/phpunit-web/src/"
+            "Boltnut2020\\PhpunitWeb\\": "vendor/boltnut2020/phpunit-web/src/"
         }
     },
     "extra": {
