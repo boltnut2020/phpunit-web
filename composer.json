@@ -1,0 +1,14 @@
+{
+    "name": "boltnut2020/phpunit-web",
+    "description": "execute phpunit on browser for laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "boltnut2020",
+            "email": "boltnut2020@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
