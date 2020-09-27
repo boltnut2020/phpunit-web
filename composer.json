@@ -10,5 +10,17 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "Boltnut2020\\PhhpunitWeb\\": "vendor/boltnut2020/phpunit-web/src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Boltnut2020\\PhpunitWeb\\PhpunitWebServiceProvider"
+            ]
+        }
+    }
 }
