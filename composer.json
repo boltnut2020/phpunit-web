@@ -11,6 +11,12 @@
     ],
     "minimum-stability": "dev",
     "require": {},
+    "autoload": {
+        "psr-4": {
+            "Boltnut2020\\PhpunitWeb\\": "vendor/boltnut2020/phpunit-web/src/"
+        }
+    },
+
     "autoload-dev": {
         "psr-4": {
             "Boltnut2020\\PhpunitWeb\\": "vendor/boltnut2020/phpunit-web/src/"
